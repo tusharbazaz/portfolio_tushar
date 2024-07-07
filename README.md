@@ -13,7 +13,7 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Contact
 
 <div align="center">
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://tusharbazaz.github.io/portfolio_tushar/"><strong>➥ Live Demo</strong></a>
 
 <p align="center"><b>If you found the code useful, please feel free to fork it and modify it as you see fit.</p? <br>
 </div>
